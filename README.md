@@ -1,6 +1,6 @@
 # Hi, I'm Athulya 👋
 
-AI/ML Master's student at the University of Adelaide, building end-to-end deep learning systems — from multimodal hallucination detection to cybersecurity-grounded RAG pipelines.
+AI/ML Master's student at the Adelaide University, building end-to-end deep learning systems — from multimodal hallucination detection to cybersecurity-grounded RAG pipelines.
 
 ## 🔭 What I'm working on
 - **VERA** — a multimodal hallucination detection framework (DeBERTa-v3 + ViT-B/16 + Transformer fusion), achieving Macro-F1 of 0.899 and AUROC of 0.970
@@ -14,7 +14,7 @@ AI/ML Master's student at the University of Adelaide, building end-to-end deep l
 **Cloud/DevOps:** AWS, Terraform, Docker, Git
 
 ## 📫 Reach me
-- LinkedIn: [Athulya_Acharya](your-linkedin-url)
+- LinkedIn: [Athulya_Acharya](https://www.linkedin.com/in/athulya-acharya/)
 - Email: aiwithathulya@gmail.com
 
 ## 📌 Pinned projects
